@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/tools/">
+    <Project Path="tools/CastleRevisited.Extractor/CastleRevisited.Extractor.csproj" />
+  </Folder>
+  <Project Path="CastleRevisited.Console/CastleRevisited.Console.csproj" />
+  <Project Path="CastleRevisited.Core/CastleRevisited.Core.csproj" />
+  <Project Path="CastleRevisited.Tests/CastleRevisited.Tests.csproj" />
+</Solution>
